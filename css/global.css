@@ -224,12 +224,13 @@ body {
 
 
 
+
 .menu-toggle span {
     width: 25px;
     height: 2px;
     background-color: var(--accent);
     transition: var(--transition);
-}
+} 
 
 /* Responsive */
 @media (max-width: 768px) {
